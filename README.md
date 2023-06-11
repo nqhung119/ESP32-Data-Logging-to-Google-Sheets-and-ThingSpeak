@@ -7,4 +7,4 @@ Using ESP32 to store data into Google Sheet through Google Script and send the d
 
 ## Documentation
 
-You can find the documentation [on the website](https://iotdesignpro.com/projects/esp32-based-text-to-speech-converter-webserver).
+You can find the documentation [on the website](https://iotdesignpro.com/articles/esp32-data-logging-to-google-sheets-with-google-scripts).
