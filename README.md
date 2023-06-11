@@ -1,5 +1,3 @@
-# ESP32-Data-Logging-to-Google-Sheets-and-ThingSpeak
-
 # [ESP32 Data Logging to Google Sheets with Google Scripts and Publish Sensor Readings to ThingSpeak](https://iotdesignpro.com/articles/esp32-data-logging-to-google-sheets-with-google-scripts) &middot;
 
 Using ESP32 to store data into Google Sheet through Google Script and send the data to Thingspeak to plot charts.
